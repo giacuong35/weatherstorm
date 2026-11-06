@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Forecasting with Apache Storm 3.0.0
 
 A standalone Maven project for Windows and JDK 25. It does not modify `storm-starter`.
@@ -44,3 +45,4 @@ $env:WEATHER_SOURCE = "simulated"
 - Predict Bolt: applies a transparent heuristic and prints LOW/MEDIUM/HIGH rain-risk labels.
 
 **Important:** LOW/MEDIUM/HIGH is only a rule-based demonstration, not a trained ML forecast or an official weather warning. The next milestone is to train and evaluate a model on historical hourly data and replace the heuristic.
+
